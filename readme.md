@@ -11,4 +11,4 @@ Honor Project: Training your own chatbot (I used the simplest approach: a Markov
 
 The chatbots of the two projects above were hosted using Telegram and Amazon ECS. They are no longer running.
 
-Course Certificate: https://www.coursera.org/account/accomplishments/verify/9R9XQ27APN7V  
+Course Certificate: https://www.coursera.org/account/accomplishments/certificate/9R9XQ27APN7V  
